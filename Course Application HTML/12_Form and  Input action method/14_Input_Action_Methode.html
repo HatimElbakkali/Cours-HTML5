@@ -6,10 +6,14 @@
     <title>Document</title>
 </head>
 <body>
-    <form method="post">
+    <!-- "post" sends data into the request body. More Secure for sensitive data such as password -->
+     <!-- There are "get" sends data in a URL but, no secure never -->
+    <form method="post"> 
 
         <div>
-            <label for="User">User name</label>
+            <!-- describe input on left ex(email, password.......)  -->
+            <label for="User">User name</label> 
+            <!-- input -->
             <input id="User" type="text" name="User">
         </div>
         <div>

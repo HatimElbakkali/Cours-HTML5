@@ -7,7 +7,10 @@
 </head>
 <body>
     <label for="cnt"> what is your country? </label>
-    <select name="country" id="cnt"  > <!-- attribute= multipl-->
+    <!-- "select-option" used to craete a drop-down from which the user choses one or more option -->
+    <select name="country" id="cnt"  >
+
+        <!-- represent each choose in list -->
         <option selected value="MO">Morocco</option>
         <option value="Egy">Egypte</option>
         <option value="Qa">Qatar</option>
@@ -15,19 +18,20 @@
         <option value="Pa">Palestine</option>
         <option value="Jo">jordan</option>
 
+        <!--used to divide option into option  -->
         <optgroup label="Europe">
             <option value="spain">spain</option>
             <option value="ita">Italya</option>
         </optgroup>
     </select>
-    <input type="submit">
 
     <!-- OR  -->
 
     <br>
-    <hr>
-
+    <br>
     <input list="language" name="lang">
+
+    <!-- "datalist" allows the user to choose an option from the list to type something of their own list -->
     <datalist id="language">
     <option value="c">
     <option value="c#">
