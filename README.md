@@ -11,30 +11,30 @@
 
 📁 Folder Structure:
 
-Course HTML.../
-└── 📁 Course Application HTML/
-    ├── 📁 01_Tags
-    ├── 📁 02_Component
-    ├── 📁 03_Head
-    ├── 📁 04_Paragraph
-    ├── 📁 05_Text Formatting
-    ├── 📁 06_Image
-    ├── 📁 07_Audio
-    ├── 📁 08_Video
-    ├── 📁 09_Table and List
-    ├── 📁 10_Semantic Elements
-    ├── 📁 11_Input
-    ├── 📁 12_Form and In...
-    ├── 📁 13_Link
-    ├── 📁 14_Select_Option
-    ├── 📁 15_Button
-    ├── 📁 16_Validate_Text...
-    ├── 📁 17_Iframe_Embe...
-    ├── 📁 18_Download
-    ├── 📁 19_The End
-└── 📁 Course HTML PDF/
-    ├── 📄 HTML PDF(By Hatim...) 
-└── 📄 README.md
+    Course HTML.../
+    └── 📁 Course Application HTML/
+     ├── 📁 01_Tags
+     ├── 📁 02_Component
+     ├── 📁 03_Head
+     ├── 📁 04_Paragraph
+     ├── 📁 05_Text Formatting
+     ├── 📁 06_Image
+     ├── 📁 07_Audio
+     ├── 📁 08_Video
+     ├── 📁 09_Table and List
+     ├── 📁 10_Semantic Elements
+     ├── 📁 11_Input
+     ├── 📁 12_Form and In...
+     ├── 📁 13_Link
+     ├── 📁 14_Select_Option
+     ├── 📁 15_Button
+     ├── 📁 16_Validate_Text...
+     ├── 📁 17_Iframe_Embe...
+     ├── 📁 18_Download
+     ├── 📁 19_The End
+    └── 📁 Course HTML PDF/
+     ├── 📄 HTML PDF(By Hatim...) 
+    └── 📄 README.md
 
 🧑‍💻 Techniques used:
 
@@ -47,4 +47,5 @@ Course HTML.../
  all link in Social media: https://linktr.ee/HatimElbakkali.
  
  and Thank you😊.
+
 
