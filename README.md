@@ -39,7 +39,7 @@
 🧑‍💻 Techniques used:
 
     HTML5
-    Google Docs(PDF)
+    Google Docs
 
 📬 Connect
 
@@ -47,5 +47,6 @@
  all link in Social media: https://linktr.ee/HatimElbakkali.
  
  and Thank you😊.
+
 
 
