@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <label for="cnt"> what is your country? </label>
+    <select name="country" id="cnt"  > <!-- attribute= multipl-->
+        <option selected value="MO">Morocco</option>
+        <option value="Egy">Egypte</option>
+        <option value="Qa">Qatar</option>
+        <option value="Sa">saudia Arabic</option>
+        <option value="Pa">Palestine</option>
+        <option value="Jo">jordan</option>
+
+        <optgroup label="Europe">
+            <option value="spain">spain</option>
+            <option value="ita">Italya</option>
+        </optgroup>
+    </select>
+    <input type="submit">
+
+    <!-- OR  -->
+
+    <br>
+    <hr>
+
+    <input list="language" name="lang">
+    <datalist id="language">
+    <option value="c">
+    <option value="c#">
+    <option value="c++">
+    <option value="rust">
+    <option value="ruby">
+    </datalist>
+
+</body>
+</html>
