@@ -43,10 +43,7 @@
 
 📬 Connect
 
- If you want to see more of my work or contact us:
- all link in Social media: https://linktr.ee/HatimElbakkali.
- 
- and Thank you😊.
+    If you want to see more of my work or contact us:
+    all link in Social media: https://linktr.ee/HatimElbakkali.
 
-
-
+    and Thank you😊.
