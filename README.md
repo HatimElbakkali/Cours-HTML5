@@ -24,16 +24,16 @@
      ├── 📁 09_Table and List
      ├── 📁 10_Semantic Elements
      ├── 📁 11_Input
-     ├── 📁 12_Form and In...
+     ├── 📁 12_Form and Input
      ├── 📁 13_Link
      ├── 📁 14_Select_Option
      ├── 📁 15_Button
-     ├── 📁 16_Validate_Text...
-     ├── 📁 17_Iframe_Embe...
+     ├── 📁 16_Validate_Text
+     ├── 📁 17_Iframe_Embed
      ├── 📁 18_Download
      ├── 📁 19_The End
     └── 📁 Course HTML PDF/
-     ├── 📄 HTML PDF(By Hatim...) 
+     ├── 📄 HTML PDF(By Hatim Elbakkali) 
     └── 📄 README.md
 
 🧑‍💻 Techniques used:
